@@ -8,6 +8,7 @@ function Mins(props) {
   let binaryMSD = toBinaryForMSMSD(msd);
   let binaryLSD = toBinaryForLSD(lsd);
 
+console.log(binaryLSD)
   return (
     <div className="Mins">
       <div className="MinsHeader">

@@ -7,7 +7,7 @@ function Hour(props) {
 
     let binaryMSD = toBinaryForHMSD(msd);
     let binaryLSD = toBinaryForLSD(lsd);
-
+    
     return (
         <div className="Hour">
             <div className="HourHeader">
